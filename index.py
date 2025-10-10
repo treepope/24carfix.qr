@@ -2,8 +2,8 @@ import qrcode
 from PIL import Image
 
 # URL to be encoded in the QR code
-url = "https://app.24carfix.com/"
-file_name = "24carfix-webapp.png"
+url = "https://www.24carfix.com/download.php"
+file_name = "24carfix-app-dynamic.png"
 
 # Create a QR code object
 qr = qrcode.QRCode(
